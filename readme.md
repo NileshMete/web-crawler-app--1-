@@ -2,7 +2,7 @@
 
 A powerful and intelligent web crawling application that discovers and extracts content from websites, perfect for RAG-based AI chatbots and content analysis.
 
-![Smart Web Crawler](https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![Smart Web Crawler](https://cdn.mos.cms.futurecdn.net/84vAQbR5vqnnE73XV8jeoM.jpg)
 
 ## Features
 
