@@ -26,7 +26,7 @@ A powerful and intelligent web crawling application that discovers and extracts 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/smart-web-crawler.git
+git clone https://github.com/NileshMete/web-crawler-app--1-.git
 cd smart-web-crawler
 ```
 
